@@ -1,0 +1,110 @@
+/* Write your CSS code here. */
+.bg-img {
+  height: 100vh;
+  background-image: url('https://i.postimg.cc/D0HXD8Zt/bgimg.png');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.ind4 {
+  height: 50px;
+  width: 50px;
+  margin-bottom: 100px;
+}
+
+.navBar {
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  font-family: Arial;
+}
+
+.navEle {
+  text-decoration: none;
+}
+
+.navEle:hover {
+  text-decoration: underline;
+}
+
+.score {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  height: 30px;
+  width: 300px;
+  color: white;
+  font-size: 17px;
+  font-family: Arial;
+  margin-left: 60px;
+}
+
+.forall {
+  display: flex;
+  flex: row;
+  justify-content: start;
+  flex-wrap: wrap;
+  padding: 100px;
+}
+
+.ind2 {
+  height: 300px;
+  width: 370px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.assets {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  height: 45px;
+  width: 300px;
+  border-width: 1px;
+  border-color: gray;
+  color: white;
+  font-size: 17px;
+  font-family: Arial;
+  border-style: solid;
+  border-left: none;
+  border-right: none;
+  padding-bottom: 20px;
+}
+
+.assets:hover {
+  height: 45px;
+  width: 300px;
+  background-color: white;
+  color: black;
+}
+
+.asset1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  height: 100px;
+  width: 300px;
+  color: white;
+  font-size: 17px;
+  font-family: Arial;
+}
+
+.ind3 {
+  height: 60vh;
+  width: 200px;
+}
+.ind2:hover {
+  background-color: black;
+  color: #ffffff;
+  border-radius: 10px;
+}
+
+.text {
+  font-size: 15px;
+  margin-bottom: -15px;
+}
