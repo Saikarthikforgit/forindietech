@@ -1,9 +1,9 @@
 import SoldierProfile from './components/SoldierProfile'
 
-import Weapons from './components/Weapons'
+import Weapons from './components/WeaponsList'
 
 import './App.css'
 
-const App = () => <Weapons />
+const App = () => <SoldierProfile/>
 
 export default App
