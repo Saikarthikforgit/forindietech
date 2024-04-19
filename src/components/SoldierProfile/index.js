@@ -4,10 +4,10 @@ const SoldierProfile = () => (
   <div className="bg-img">
     <div className="navBar">
       <ul className="navEle">HOME</ul>
-      <ul className="navEle">HOME</ul>
-      <ul className="navEle">HOME</ul>
-      <ul className="navEle">HOME</ul>
-      <ul className="navEle">HOME</ul>
+      <ul className="navEle">MULTIPLAYER</ul>
+      <ul className="navEle">SILDIER</ul>
+      <ul className="navEle">CAMPAIGN</ul>
+      <ul className="navEle">STORE</ul>
     </div>
     <div className="forall">
       <div>
@@ -34,27 +34,27 @@ const SoldierProfile = () => (
           <p>71/182</p>
         </div>
         <div className="assets">
-          <p className="ind1">WEAPONS</p>
+          <p className="ind1">KITS</p>
           <p>71/182</p>
         </div>
         <div className="assets">
-          <p className="ind1">WEAPONS</p>
+          <p className="ind1">VEHICLES</p>
           <p>71/182</p>
         </div>
         <div className="assets">
-          <p className="ind1">WEAPONS</p>
+          <p className="ind1">MEDALS</p>
           <p>71/182</p>
         </div>
         <div className="assets">
-          <p className="ind1">WEAPONS</p>
+          <p className="ind1">DOG TAGS</p>
           <p>71/182</p>
         </div>
         <div className="assets">
-          <p className="ind1">WEAPONS</p>
+          <p className="ind1">ASSIGNMENTS</p>
           <p>71/182</p>
         </div>
         <div className="assets">
-          <p className="ind1">WEAPONS</p>
+          <p className="ind1">BATTLEPACKS</p>
         </div>
       </div>
       <div className="score">
