@@ -23,10 +23,12 @@
 
 .navEle {
   text-decoration: none;
+  margin-right: 5px; 
 }
 
 .navEle:hover {
   text-decoration: underline;
+  margin-right: 5px;
 }
 
 .score {
